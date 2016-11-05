@@ -1,0 +1,1 @@
+This is Ethan Wright's first git project.
